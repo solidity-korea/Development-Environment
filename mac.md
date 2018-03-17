@@ -66,15 +66,10 @@ geth 의 버전은 꽤나 빠르게 업데이트 되가고 있다. 혹시 최신
 `brew update`
 `brew reinstall ethereum`  혹은 `brew upgrade ethereum`
 
-
-
 그러나 위 같이 시도했음에도 불구하고 `geth version ` 을 했을 때,  기존과 같은 구버전이 나오는 케이스가 있다.
 
 그럴 땐 https://geth.ethereum.org/downloads/ 에 방문하여 OS 에 맞는 파일을 받아 압축을 푼 후, 확인 수 있는 binary 파일을 기존 geth 가 설치된 위치에 덮어씌기 해주면 된다.
 
-
-
-`which geth` 명령을 통해 설치 된 geth 의 Location 을 확인 할 수 있다.
-
-- ex) `/usr/local/bin/geth`
+- `which geth` 명령을 통해 설치 된 geth 의 Location 을 확인 할 수 있다.
+	- ex) `/usr/local/bin/geth`
 

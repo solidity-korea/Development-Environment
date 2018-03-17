@@ -37,7 +37,9 @@ Xcode 의 Command Line Tools 도 같이 설치 됩니다.
 
 ![](/assets/geth_4.png)
 
-상세 사항은 `https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac 참고 `
+상세 사항은 `https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac 참고`
 
 
+
+`which geth`
 

@@ -1,8 +1,14 @@
 # Mac
 
+## Geth 설치 
+
 ### Install Homebrew
 
-[https://brew.sh/](https://brew.sh/index_ko) 방문
+Hombrew 는 Ubuntu 의 apt-get 과 같은 MacOS 의 Package 설치, 관리 Tool 이다.
+
+Hombrew 를 통해 Geth 를 설치
+
+[https://brew.sh](https://brew.sh/index_ko) 방문
 
 ![](assets/install_hombrew.png)
 
@@ -24,7 +30,7 @@
 
 정상적으로 설치되었다면 `brew` 명령을 실행해 보았을 때 위 같은 결과를 볼 수 있다.
 
-## Geth 설치
+### Geth 설치
 
 `brew tap ethereum/ethereum`  명령을 통해 brew 에 ethereum 저장소를 추가
 

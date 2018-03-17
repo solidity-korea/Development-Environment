@@ -1,3 +1,7 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Mac](chapter1.md)
+* [Windows](windows.md)
+* [Ubuntu](ubuntu.md)
+

@@ -2,7 +2,7 @@
 
 How to Set up Development Environment for Solidity, Ethereum, Web3 DApps in Mac, Windows, Ubuntu
 
-* \[Mac\]\(/Mac\)
+
 
 
 

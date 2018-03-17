@@ -26,8 +26,6 @@ Xcode 의 Command Line Tools 도 같이 설치 됩니다.
 
 ## Geth 설치
 
-`https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac`
-
 `brew tap ethereum/ethereum`
 
 ![](/assets/geth_1.png)
@@ -35,10 +33,11 @@ Xcode 의 Command Line Tools 도 같이 설치 됩니다.
 `brew install ethereum`  
 ![](/assets/geth_2.png)
 
-![](/assets/geth_3.png)  
-
-
-
+![](/assets/geth_3.png)
 
 ![](/assets/geth_4.png)
+
+상세 사항은 `https://github.com/ethereum/go-ethereum/wiki/Installation-Instructions-for-Mac 참고 `
+
+
 

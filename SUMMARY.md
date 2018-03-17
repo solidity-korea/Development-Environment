@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Mac](chapter1.md)
+* Mac
 * [Windows](windows.md)
 * [Ubuntu](ubuntu.md)
 

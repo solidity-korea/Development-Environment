@@ -12,11 +12,13 @@
 
 ![](/assets/install_homebrew_1.png)
 
-설치중 모습 
+설치중 모습
 
 ![](/assets/install_hombrew_2.png)
 
 Xcode 의 Command Line Tools 도 같이 설치 됩니다.
 
 ![](/assets/install_homebrew_3.png)
+
+
 

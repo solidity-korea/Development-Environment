@@ -1,7 +1,7 @@
 # Geth
 
-* [Mac](Geth/mac.md)
-* [Windows](Geth/windows.md)
-* [Ubuntu](Geth/ubuntu.md)
+* [Mac](mac.md)
+* [Windows](windows.md)
+* [Ubuntu](ubuntu.md)
 
 

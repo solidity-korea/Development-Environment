@@ -6,18 +6,9 @@ Solidity, Ethereum, Web3, DApps 개발을 위한 Mac, Windows, Ubuntu OS 별 환
 
 [View in GitBook](https://solidity-korea.gitbooks.io/development-environment)
 
-### OS 별 개발환경 세팅
-
-* [Mac](/mac.md)
-* [Windows](windows.md)
-* [Ubuntu](ubuntu.md)
-
-
-
-
 ### 다루는 개발 환경 및 Tools
 
-- [x] Geth
+- [x] [Geth](Geth/README.md)
 - [ ] mist
 - [ ] node
 - [ ] npm

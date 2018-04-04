@@ -9,15 +9,15 @@ Solidity, Ethereum, Web3, DApps 개발을 위한 Mac, Windows, Ubuntu OS 별 환
 ### 다루는 개발 환경 및 Tools
 
 * [x] [Geth](Geth/README.md)
+* [x] [metamask](Metamask/README.md)
+* [x] [web3.py](Web3.py/README.md)
+* [x] [ganache](Ganache/README.md)
 * [ ] mist
-* [ ] web3.py
 * [ ] node
 * [ ] npm
 * [ ] solc
 * [ ] truffle
-* [ ] ganache
 * [ ] remix
-* [ ] metamask
 * [ ] .. ETC, TBD
 
 

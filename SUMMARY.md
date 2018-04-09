@@ -18,5 +18,6 @@
 * [Node-npm](Node-npm/README.md)
 * [Truffle](Truffle/README.md)
 * [IDE](IDE/README.md)
+	* [IntelliJ](IDE/IntelliJ.md)
 
 

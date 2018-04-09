@@ -15,5 +15,8 @@
   * [Mac](Mist/mac.md)
   * [Windows](Mist/windows.md)
   * [Ubuntu](Mist/ubuntu.md)
+* [Node-npm](Node-npm/README.md)
+* [Truffle](Truffle/README.md)
+* [IDE](IDE/README.md)
 
 

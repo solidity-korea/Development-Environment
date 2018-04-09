@@ -11,13 +11,7 @@
   * [Mac](Web3.py/mac.md)
   * [Windows](Web3.py/windows.md)
   * [Ubuntu](Web3.py/ubuntu.md)
-* [Mist](Mist/README.md)
-  * [Mac](Mist/mac.md)
-  * [Windows](Mist/windows.md)
-  * [Ubuntu](Mist/ubuntu.md)
 * [Node-npm](Node-npm/README.md)
 * [Truffle](Truffle/README.md)
 * [IDE](IDE/README.md)
 	* [IntelliJ](IDE/IntelliJ.md)
-
-

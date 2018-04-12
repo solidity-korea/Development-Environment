@@ -7,5 +7,8 @@ https://nodejs.org/ko/download/package-manager/ 를 참고하여 OS 별 package 
 - ex) brew (mac), apt-get(ubuntu), Chocolatey(windows)
 
 
+LTS 버전 설치를 권장하며, 설치 시 옵션에서 npm(node package manager) 과 함께 설치 선택 
 
-설치 시 npm 과 함께 설치되는 full 버전으로 선택 
+
+
+설치 후 shell 혹은 cmd 등 에서 `node` , `npm` 명령이 잘 수행되는지 확인

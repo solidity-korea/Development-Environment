@@ -13,7 +13,7 @@ Solidity, Ethereum, Web3, DApps 개발을 위한 Mac, Windows, Ubuntu OS 별 환
 * [x] [web3.py](Web3.py/README.md)
 * [x] [ganache](Ganache/README.md)
 * [x] [Node-npm](Node-npm/README.md)
-* [x] [truffle, solc](Truffle/READE)
+* [x] [truffle](Truffle/READE)
 * [ ] remix
 * [ ] mist
 * [ ] .. ETC, TBD

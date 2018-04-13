@@ -13,7 +13,7 @@ github - https://github.com/ethereum/web3.py
 
 
 
-###OS 별 상세 Python 및 web3.py  설치
+### OS 별 상세 Python 및 web3.py  설치
 
 * [Mac](mac.md)
 * [Windows](windows.md)
